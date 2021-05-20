@@ -12,6 +12,7 @@ pyyaml = "*"
 uritemplate = "*"
 gunicorn = "*"
 psycopg2-binary = "*"
+dj-database-url = "*"
 
 [dev-packages]
 pytest = "*"
